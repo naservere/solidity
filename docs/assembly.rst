@@ -414,7 +414,8 @@ changes during the call, and thus references to local variables will be wrong.
 Labels
 ------
 
-Support for labels has been removed. Please use functions, loops, if or switch statements instead.
+Support for labels has been removed in version 0.5.0 of Solidity.
+Please use functions, loops, if or switch statements instead.
 
 Declaring Assembly-Local Variables
 ----------------------------------
